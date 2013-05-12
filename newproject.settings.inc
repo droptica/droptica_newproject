@@ -1,6 +1,6 @@
 # newproject.settings.inc
 
-PROJECTNAME=rooms
+PROJECTNAME=myprojectname
 PROJECT_DIR=/home/gbartman/openBIT/www2/"$PROJECTNAME"
 PROJECT_DIR_APP=$PROJECT_DIR"/app"
 
@@ -15,9 +15,9 @@ CISCO_VPN_INSTALLED=yes
 DB_ROOT_USERNAME=root
 DB_ROOT_PASS=rootpassword
 
-DB_DRUPAL_USERNAME=rooms_gb
+DB_DRUPAL_USERNAME=myprojectname_gb
 DB_DRUPAL_PASS="123"
-DB_DRUPAL_DBNAME="rooms_gb"
+DB_DRUPAL_DBNAME="myprojectname_gb"
 
 DRUPAL_INSTALLATION_PROFILE=standard
 
