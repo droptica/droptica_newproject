@@ -15,6 +15,7 @@ Script procedure:
 
 Usage:
 * go to directory where you want to create project
+* copy files newproject.settings.inc and newproject.sh to this directory
 * change settings in newproject.settings.inc
 * run command: sudo ./newproject.sh
 
