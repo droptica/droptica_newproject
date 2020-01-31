@@ -1,4 +1,4 @@
-Droptica NewProject Script
+[Droptica](https://www.droptica.com) NewProject Script
 
 In one command you can create Drupal project with configured Apache vhost, host, MySQL.
 
